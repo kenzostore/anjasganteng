@@ -51,8 +51,8 @@ Simpel WhatsApp Bot
 > node . [<session name>] (session name is optional)
 ```
 
-#### Powered By : [`XnxxApi`](https://xnxxapi.herokuapp.com/)
+#### Powered By : [`KenzStore`](https://api-kenzbotz-free.herokuapp.com/)
 
 #### Author / Creator : [`DcodeDenpa`](https://github.com/dcode-denpa/bitch-boot)
 
-#### Recode By : [`KurrXd`](https://youtube.com/c/KurrXd)
+#### Recode By : [`KenzGanteng`](lopyouu)
